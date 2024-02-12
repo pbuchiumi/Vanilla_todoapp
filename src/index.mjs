@@ -1,1 +1,2 @@
-console.log("こんちゃ")
+import "./styles.css"
+
